@@ -49,7 +49,7 @@ Once the code is compiled, we deploy the contract by clicking on the "Deploy & R
 Once the contract is deployed, after that we copy the address of my token and past it in the MINT function and BURN function and in Balance after that we can interact with it by calling the MINT function. Click on the "MYTOKEN" contract in the left-hand sidebar, and then click on the "BURN" function. Finally, click on the "tsupply" 
 
 ## Video Walkthrough
-https://www.loom.com/share/02a182c98b0e43c4ada24f459464c39a
+https://www.loom.com/share/10166ecfcfc843dfbb9689f40bb06030
 
 ## License
 
